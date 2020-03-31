@@ -1,2 +1,2 @@
 # landers
-Landing page framwork
+Landing page framework
